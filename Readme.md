@@ -1,0 +1,1 @@
+#Cool json files init
